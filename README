@@ -1,0 +1,6 @@
+Signature to SVG Image: a supplemental server-side script for "Signature Pad"
+that generates a scalable vector graphic (SVG) of the Signature Pad's output.
+PHP 5.3 and above required but no other external dependencies (like GD).
+
+Thanks to Thomas Bradley: http://thomasjbradley.ca/lab/signature-pad
+
